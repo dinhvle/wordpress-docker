@@ -2,7 +2,7 @@
 Using Docker to create a WordPress working environment.
 
 ## Requirements
-You just need Docker install 
+You just need Docker/Compose installed
 
 ## Getting Started
 Build the WordPress project with
